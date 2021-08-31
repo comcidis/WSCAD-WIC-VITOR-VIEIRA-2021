@@ -1,6 +1,6 @@
 # WSCAD-WIC-VITOR-VIEIRA-2021
 
-This repository was create for WSCAD-WIC 2021, with date of submtion to 01/09/2021.
+This repository was create for WSCAD-WIC 2021, with date of submission to 01/09/2021.
 
  The objective of this work is to assess the efficiency of data reading techniques for the random forest algorithm. Alongside this, measure energy consumption and performance from different points of precision, seeking a balance between gains in energy efficiency, with minimal changes in predictive performance.
 
