@@ -9,7 +9,7 @@ This repository was create for WSCAD-WIC 2021, with date of submission to 01/09/
     Python: 3.8.10
     Pandas: 1.21.1
     Numpy: 1.18.4
-    Sckit-learn: 0.24.2
+    Scikit-learn: 0.24.2
     Ubuntu: 20.04 LTS
     kernel: 5.8.0-63-generic
 
